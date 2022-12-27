@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, nice to see you.</h1>
-<h2 align = "center"><b><i>I am Dhruv, a Python Developer and an aspiring Competitive Programmer.</b></i></h2>
+<h2 align = "center"><b><i>I am Dhruv, an aspiring Developer.</b></i></h2>
 
 - 🌱 I’m currently learning **C++, DSA, Problem Solving and Python.**
 
-- 🤝 I’m looking for help with **DSA and Python.**
+- 🤝 I’m looking for help with **DSA, Python and Web Development.**
 
 - 💬 Ask me about **C , C++ , DSA and Python.**
 <h3 align="left">Let's Connect : </h3>
