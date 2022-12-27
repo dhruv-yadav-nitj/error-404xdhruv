@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, nice to see you.</h1>
-<h2 align = "center"><b><i>I am Dhruv, an aspiring Developer.</b></i></h2>
+<h2 align = "center"><b><i>I am Dhruv, an aspiring Developer and Problem Solving enthusiast.</b></i></h2>
 
 - 🌱 I’m currently learning **C++, DSA, Problem Solving and Python.**
 
