@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **C++, DSA, Problem Solving and Development.**
 
-- 🤝 I’m looking for help with **DSA, Python and Web Development.**
+- 🤝 I’m looking for help with **DSA, Python and Development in Python.**
 
-- 💬 Ask me about **C , C++ , DSA and Python.**
 <h3 align="left">Let's Connect : </h3>
 <p align="center">
 <a href="https://linkedin.com/in/dhruv1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv1708" height="30" width="40" /></a>
