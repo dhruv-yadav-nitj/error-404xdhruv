@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **DSA, Python and Development in Python.**
 
-<h3 align="left">Let's Connect : </h3>
+<h3 align="left">Profiles : </h3>
 <p align="center">
 <a href="https://linkedin.com/in/dhruv1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv1708" height="30" width="40" /></a>
 <a href="https://twitter.com/DhruvYadav__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv_1708" height="30" width="40" /></a>
