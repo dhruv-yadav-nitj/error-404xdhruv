@@ -44,7 +44,5 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=dhruv-yadav-nitj&icon=0&color=0)](https://visitcount.itsvg.in)
-
+##
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
