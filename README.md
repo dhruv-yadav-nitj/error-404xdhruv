@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++, DSA, Problem Solving and Development.**
 
-- 🤝 I’m looking for help with **DSA, Python and Development in Python.**
+- 🤝 I’m looking for help with **DSA and Web Development.**
 
 <h3 align="left">Profiles : </h3>
 <p align="center">
