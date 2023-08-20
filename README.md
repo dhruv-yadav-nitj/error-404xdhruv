@@ -13,6 +13,15 @@
     <a href="https://instagram.com/_dhruv.17">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
+    <a href="https://leetcode.com/soap_mactavish/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsoap_mactavish&logo=leetcode&logoColor=yellow)">
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/dhruvnitj/practice">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c">
+    </a>
+    <a href="https://www.codechef.com/users/dhruv_nitj_17">
+        <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat-square&logo=CodeChef&logoColor=white">
+    </a>
     <a href="https://linkedin.com/in/dhruv1708">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -21,7 +30,7 @@
     </a>
     <a href="https://twitter.com/DhruvYadav__">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
-    </a>
+    </a>    
 </p>
 
 ### 💻 Tech Stack:
