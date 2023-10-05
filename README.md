@@ -28,7 +28,7 @@
     <a href="https://stackoverflow.com/users/18243612">
         <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow">
     </a>
-    <a href="https://twitter.com/DhruvYadav__">
+    <a href="https://twitter.com/dhr_uvvv">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
     </a>    
 </p>
