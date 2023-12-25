@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://leetcode.com/soap_mactavish/">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsoap_mactavish&logo=leetcode&logoColor=yellow)">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fpikachu_nit&logo=leetcode&logoColor=yellow)">
     </a>
     <a href="https://auth.geeksforgeeks.org/user/dhruvnitj/practice">
         <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c">
