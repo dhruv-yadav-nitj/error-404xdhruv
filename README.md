@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, nice to see you.</h1>
 <h2 align = "center"><b><i>I am Dhruv, an aspiring Developer and a Problem Solving enthusiast.</b></i></h2>
 
-- 🌱 I’m currently learning **C++, DSA, Problem Solving and Development.**
-
-- 🤝 I’m looking for help with **DSA and Web Development.**
+- 🌱 I’m currently learning **C++, Python, DSA, Problem Solving and Development.**
 
 ### 🌐 Profiles:
 <p align="center">
