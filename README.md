@@ -3,6 +3,7 @@
 
 <p align="center">🌱 I’m currently learning <b>C++, Python, DSA, Problem Solving, and Development.</b></p>
 
+
 ### 🌐 Profiles:
 <p align="center">
     <a href="https://discord.gg/#0127">
@@ -50,3 +51,5 @@
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://komarev.com/ghpvc/?username=dhruv-yadav-nitj&color=orange)
