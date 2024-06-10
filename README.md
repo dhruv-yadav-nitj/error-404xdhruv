@@ -7,6 +7,7 @@
   <li><b>Python</b></li>
   <li><b>DSA (Data Structures and Algorithms)</b></li>
   <li><b>Problem Solving</b></li>
-  <li><b>Development</b></li>
+  <li><b>Machine Learning/Deep Learning</b></li>
+  <li><b>Generative AI, LLMs</b></li>
 </ul>
 
