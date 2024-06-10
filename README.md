@@ -9,5 +9,6 @@
   <li><b>Problem Solving</b></li>
   <li><b>Machine Learning, Deep Learning, NLP</b></li>
   <li><b>Generative AI, LLMs</b></li>
+  <li><b>Computer Vision</b></li>
 </ul>
 
