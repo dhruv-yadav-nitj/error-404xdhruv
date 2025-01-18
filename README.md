@@ -9,8 +9,8 @@
   <li><b>Machine Learning</b></li>
   <li><b>Deep Learning</b></li>
   <li><b>Natural Language Processing (NLP)</b></li>
-  <li><b>Generative AI, LLMs</b></li>
-  <li><b>Web Development (Flask)</b></li>
+  <li><b>Generative AI</b></li>
+  <li><b>Web Development</b></li>
   <li><b>Computer Vision</b></li>
   <li><b>Reinforcement Learning</b></li>
 </ul>
