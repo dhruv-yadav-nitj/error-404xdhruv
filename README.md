@@ -13,5 +13,6 @@
   <li><b>Web Development</b></li>
   <li><b>Computer Vision</b></li>
   <li><b>Reinforcement Learning</b></li>
+  <li><b>Retrieval Augmented Generation (RAG) Development</b></li>
 </ul>
 
